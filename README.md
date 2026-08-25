@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
