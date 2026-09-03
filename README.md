@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0724-find-pivot-index) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
