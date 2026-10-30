@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0509-fibonacci-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0054-spiral-matrix) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
@@ -83,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0724-find-pivot-index) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aatifequbal/https-github.com-Aatifequbal-leetcode-solution_dsa/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
