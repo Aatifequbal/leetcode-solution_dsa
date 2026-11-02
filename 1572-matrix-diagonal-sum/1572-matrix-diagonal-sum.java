@@ -1,4 +1,6 @@
 class Solution {
+    //TC -> O(n)  
+    //SC -> O(1)
     public int diagonalSum(int[][] mat){
         int n = mat.length;
         int sum = 0;
@@ -12,7 +14,11 @@ class Solution {
         return sum;
 
     }
+
+    
     // public int diagonalSum(int[][] mat) {
+        //TC -> O(n^)  
+        //SC -> O(1)
     //     int n = mat.length;
     //     int m = mat[0].length;
     //     int sum = 0;
@@ -27,6 +33,5 @@ class Solution {
     //    }
     //    return sum;
     // }
-                                //TC -> O(n^)  
-                                //SC -> O(1)
+                                
 }
